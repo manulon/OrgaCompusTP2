@@ -1,3 +1,7 @@
+#include "main.c"
+
+	
+	
 matrix_t*
 matrix_multiply(matrix_t* m1, matrix_t* m2, int bs)
 {

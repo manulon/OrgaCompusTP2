@@ -159,7 +159,7 @@ _exit_main:
 	destroy_matrix(c);
 	exit(1);
 }
-
+/*
 matrix_t*
 matrix_multiply(matrix_t* m1, matrix_t* m2, int bs)
 {
@@ -199,7 +199,7 @@ matrix_multiply(matrix_t* m1, matrix_t* m2, int bs)
 				}
 	return mr;
 }
-
+*/
 char*
 read_line(FILE *fp)
 {
